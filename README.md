@@ -1,12 +1,6 @@
-<h1 align="center"> Exercícios Beecrowd</h1>
+<h1 align="center"> Lógica de Programação com C# </h1>
 
-<p align="justify">Repositório criado para publicação de resoluções de exercícios diversos e treino de lógica de programação em variadas linguagens com a utilização da plataforma Beecrowd. </p>
-
-<p align="center"><img src="https://judge.beecrowd.com/img/5.0/logo-beecrowd.png?1700546944"></p>
-
-<p align="justify">A plataforma Beecrowd trata-se de um repositório de problemas de programação que ajudarão a treinar sua lógica. A plataforma possui milhares de problemas que são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade. Isso permite que você encontre problemas específicos para treinar aquilo que está estudando. Além disso, a plataforma permite que sejam enviadas submissões em várias linguagens de programação, o que permite treinar quantas quiser!</p>
-
-<p align="justify">De maneira simples, devemos abrir um problema e este deverá conter um enunciado de explicação (contextualizado ou não), as entradas (caso haja) e a saída. Basta desenvolver o script, submeter e em poucos segundos você terá uma resposta que indicará se o exercício foi aceito ou não e quais os problemas ocasionaram a não aceitação do mesmo. Além disso, cada problema possui uma pontuação, com ranks que podem ser globais ou ainda ranks dentro de instituições, que estimulam muito a realizar mais exercícios em busca de melhores colocações.</p>
+<p align="justify">Repositório criado para publicação dos arquivos utilizados no curso "C# primeiros passos: Lógica de Programação e Algoritmos", hospedado na Udemy e de autoria do professor Nélio Alves. </p>
 
 ## Autor
 
