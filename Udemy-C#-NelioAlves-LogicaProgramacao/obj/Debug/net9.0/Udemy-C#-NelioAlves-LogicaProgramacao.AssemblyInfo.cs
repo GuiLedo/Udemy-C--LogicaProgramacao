@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Udemy-C#-NelioAlves-LogicaProgramacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754a9490d7ef1e854d7d6cf59467437ff87b9423")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b8510a56b52ff8c0821c0e5cd602240848e469")]
 [assembly: System.Reflection.AssemblyProductAttribute("Udemy-C#-NelioAlves-LogicaProgramacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Udemy-C#-NelioAlves-LogicaProgramacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
