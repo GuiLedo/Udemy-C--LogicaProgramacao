@@ -1,0 +1,15 @@
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\bin\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.exe
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\bin\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.deps.json
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\bin\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.runtimeconfig.json
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\bin\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.dll
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\bin\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.pdb
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.AssemblyInfoInputs.cache
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.AssemblyInfo.cs
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.csproj.CoreCompileInputs.cache
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.sourcelink.json
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.dll
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\refint\Udemy-C#-NelioAlves-LogicaProgramacao.dll
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.pdb
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\Udemy-C#-NelioAlves-LogicaProgramacao.genruntimeconfig.cache
+c:\Users\guiii\OneDrive\Documentos\OneDrive\Desktop\Projects\Udemy-C#-NelioAlves-LogicaProgramacao\Udemy-C#-NelioAlves-LogicaProgramacao\obj\Debug\net9.0\ref\Udemy-C#-NelioAlves-LogicaProgramacao.dll
