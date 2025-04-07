@@ -7,19 +7,17 @@ namespace cursoUdemy
     {
         static void Main(string[] args)
         {
+            string nome1, nome2;
+            double idadeMedia;
 
-            double baseRet, heightRet, areaRet, perimeterRet, diagonalRet;
+            Console.WriteLine("Favor fornecer nome e idade da P1:");
+            string[] vet1 = Console.ReadLine().Split(' ');
+            Console.WriteLine("Favor fornecer nome e idade da P2:");
+            string[] vet2 = Console.ReadLine().Split(' ');
 
-            Console.WriteLine("Qual a base do retângulo?");
-            baseRet = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Qual a altura do retângulo?");
-            heightRet = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            areaRet = baseRet * heightRet;
-            Console.WriteLine("Área do retângulo: " + areaRet.ToString("F4"));
-            perimeterRet = baseRet * 2 + heightRet * 2;
-            Console.WriteLine("Perímetro do retângulo: " + perimeterRet.ToString("F4"));
-            diagonalRet = Math.Sqrt((Math.Pow(baseRet, 2) + Math.Pow(heightRet, 2)));
-            Console.WriteLine("Diagonal do retângulo: " + diagonalRet.ToString("F4"));
+            Console.WriteLine("Nomes: " + vet1[0] + " e " + vet2[0]);
+            idadeMedia = (double.Parse((vet1)[1]) + double.Parse((vet2)[1])) / 2;
+            Console.WriteLine("Idade Média: " + idadeMedia);
 
         }
     }
