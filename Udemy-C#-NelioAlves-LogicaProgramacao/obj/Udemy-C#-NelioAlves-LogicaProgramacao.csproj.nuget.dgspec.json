@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj": {}
+    "C:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj": {
+    "C:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj",
+        "projectUniqueName": "C:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj",
         "projectName": "Udemy-C#-NelioAlves-LogicaProgramacao",
-        "projectPath": "c:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj",
+        "projectPath": "C:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj",
         "packagesPath": "C:\\Users\\guiii\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\obj\\",
+        "outputPath": "C:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiii\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -54,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

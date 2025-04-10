@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0u+EaULjJcI=",
+  "dgSpecHash": "ip0s4djMYAo=",
   "success": true,
-  "projectFilePath": "c:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\guiii\\OneDrive\\Documentos\\OneDrive\\Desktop\\Projects\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao\\Udemy-C#-NelioAlves-LogicaProgramacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guiii\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\guiii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\guiii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\guiii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
